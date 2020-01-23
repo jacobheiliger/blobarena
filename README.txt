@@ -1,0 +1,1 @@
+This is a 2D arena style shooter where the goal is for the player to eliminate all CPU enemies in each level.  There is currently only 1 level with two enemies.  The game is build using Pygame.  The player moves by using the w,a,s,d keys and shoots by clicking.
